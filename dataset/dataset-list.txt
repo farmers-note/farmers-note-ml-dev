@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+토마토
+https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection
+벼
+https://www.kaggle.com/datasets/shahadhossin567r7455/potato-leaf-disease-dataset
+감자
