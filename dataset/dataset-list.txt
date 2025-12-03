@@ -4,3 +4,11 @@ https://www.kaggle.com/datasets/loki4514/rice-leaf-diseases-detection
 벼
 https://www.kaggle.com/datasets/shahadhossin567r7455/potato-leaf-disease-dataset
 감자
+https://www.kaggle.com/datasets/mdwaquarazam/agricultural-crops-image-classification
+작물 분류
+https://www.kaggle.com/datasets/smaranjitghose/corn-or-maize-leaf-disease-dataset
+옥수수
+https://www.kaggle.com/datasets/sujaykapadnis/cucumber-disease-recognition-dataset
+오이
+https://www.kaggle.com/datasets/nizier193/strawberry-disease-classification
+딸기
